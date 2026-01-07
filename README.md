@@ -1,6 +1,6 @@
 # falkryd.github.io
 
-## Cyber Security Portfolio | Fadhil Aulia Hardani
+## IT Security Analyst | Fadhil Aulia Hardani
 
 A futuristic, sleek, and cyber-minimal portfolio website redesigned for 2026. This project showcases technical expertise in cybersecurity, vulnerability management, and IT strategy with a high-tech, professional aesthetic.
 
